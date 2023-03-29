@@ -1,3 +1,3 @@
 # Dictionaries
 
-Simples code to add data into dictionaries
+Simple code to add data into dictionaries
